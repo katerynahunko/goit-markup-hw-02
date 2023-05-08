@@ -155,37 +155,37 @@ body {
 
 .address-list-item:hover,
 .address-list-item:focus {
-color: var(--accent-color);
+  color: var(--accent-color);
 }
 
 /* Portfolio */
 
 .filter-btn {
-font-weight: 500;
-font-size: 16px;
-line-height: 26px;
-text-align: center;
-letter-spacing: 0.03em;
-color: #212121;
-background: #F5F4FA;
-cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  background: #f5f4fa;
+  cursor: pointer;
 }
 
 .filter-btn:hover,
 .filter-btn:focus {
-background-color: var(--accent-color);
+  background-color: var(--accent-color);
 }
 
 .project-title {
-font-weight: 700;
-font-size: 18px;
-line-height: 2;
-letter-spacing: 0.06em;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
 }
 
 .project-dscr {
-font-size: 16px;
-line-height: 1.88;
-letter-spacing: 0.03em;
-color: #757575;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
+  color: #757575;
 }
