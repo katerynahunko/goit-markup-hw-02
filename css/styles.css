@@ -54,7 +54,7 @@ body {
   font-size: 14px;
   line-height: 1.15;
   letter-spacing: 0.02em;
- color: var(--dark-color);
+  color: var(--dark-color);
 }
 
 .nav-list-link:hover,
@@ -80,7 +80,7 @@ body {
 }
 
 .hero {
-  background-color: #2f303a;;
+  background-color: #2f303a;
 }
 
 /* Main */
@@ -155,7 +155,7 @@ body {
 }
 
 .team {
-  background-color: #F5F4FA;
+  background-color: #f5f4fa;
 }
 
 /* Footer */
@@ -169,7 +169,7 @@ body {
 }
 
 .address {
-  color: var(--light-color)
+  color: var(--light-color);
 }
 
 .address-list-item:hover,
@@ -178,7 +178,7 @@ body {
 }
 
 footer {
-  background-color: #2F303A;
+  background-color: #2f303a;
 }
 
 /* Portfolio */
@@ -197,7 +197,7 @@ footer {
 .filter-btn:hover,
 .filter-btn:focus {
   background-color: var(--accent-color);
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .project-title {
