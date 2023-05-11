@@ -57,12 +57,12 @@ body {
   color: var(--dark-color);
 }
 
-.nav-list-link:hover,
-.nav-list-link:focus {
+.nav-list-link.current:active {
   color: var(--accent-color);
 }
 
-.nav-list-link:active {
+.nav-list-link:hover,
+.nav-list-link:focus {
   color: var(--accent-color);
 }
 
