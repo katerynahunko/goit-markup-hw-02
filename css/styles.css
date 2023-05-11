@@ -57,7 +57,7 @@ body {
   color: var(--dark-color);
 }
 
-.nav-list-link.current:active {
+.nav-list-link.current {
   color: var(--accent-color);
 }
 
